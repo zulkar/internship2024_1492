@@ -4,6 +4,7 @@ Test tasks.
 - https://internship.jetbrains.com/projects/1492/
 
 Build the project to get test Jars : ./gradlew jar
+jars will appear in build/libs directory
 
 Smoke TestCases:
 - false: com.jetbrains.internship2024.ClassB ModuleB-1.0.jar
